@@ -1,16 +1,15 @@
-Wireless Ultrasonic Waterlevel Meter 
+Sun Tracking Solar Panel 
 
 INTRODUCTION
-
-      An ultrasonic water level meter is a device which can detect water levels in a tank without a physical contact .The objective of this project is to notify the user the amount of water that is present in the overhead water tank.In this project two circuits are used: a transmitter circuit and a receiver circuit. The transmitter circuit makes use of an ultrasonic sensor to measure the water level in terms of distance.The water level is shown in terms of percentage on a 16×2 LCD module.
+    As the non renewable energy resources are decreasing, use of renewable resources for producing electricity is increasing. Solar panels are becoming more popular day by day.  Solar panel absorbs the energy from the Sun, converts it into electrical energy and stores the energy in a battery.This energy can be utilized when required or can be used as a direct alternative to the grid supply. Utilization of the energy stored in batteries is mentioned in below given applications.The position of the Sun with respect to the solar panel is not fixed due to the rotation of the Earth. For an efficient usage of the solar energy, the Solar panels should absorb energy to a maximum extent.This can be done only if the panels are continuously placed towards the direction of the Sun. So, solar panel should continuously rotate in the direction of Sun. 
       
  SWOT ANALYSIS
  
          Strength      : Save time with automated task.
          
-         Weakness      : If heavy foam is present on the surface it acts as an absorbent which creates errors.
+         Weakness      : Solar trackers are not conducive with snowy weather and are only suited in hot climates.
          
-         Opportunities : This project is indicated waterlevel without manual power.
+         Opportunities : This project is used to track solarpower for utilizing as electrical energy .
          
          Threat        : Rust.
         
@@ -18,7 +17,7 @@ INTRODUCTION
          
          who: 
          
-             This project is useful for the people who looks for detect water level without physical contact.
+             This project is useful for the people who looks for track solar energy for utilizing as electrical energy.
              
          What:
          
@@ -26,8 +25,8 @@ INTRODUCTION
              
           When:
           
-              This project is used for alert people.
+              This project is used for urban people.
          
           How :
           
-              This project works on a water heater.
+              This project works on a solar panel.
