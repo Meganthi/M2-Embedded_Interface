@@ -38,3 +38,33 @@ SWOT ANALYSIS
           How :
           
               This project works on a solar panel.
+              
+HIGH LEVEL REQUIREMENTS
+
+            1. ID          : HLR_01
+            
+               DESCRIPTION : Visual Studio code platform.
+               
+               PLATFORM    : Software.
+               
+            2. ID          : HLR_02
+            
+               DESCRIPTION : Window 10 or Linux
+               
+               PLATFORM    : Software.
+               
+            3. ID          : HLR_03
+            
+               DESCRIPTION : Arduino
+               
+               PLATFORM    : Software 
+               
+ LOW LEVEL REQUIREMENTS
+
+            1. ID          : LLR_01
+            
+               DESCRIPTION : Set position
+               
+            2. ID          : LLR_02
+            
+               DESCRIPTION : Rotate
