@@ -1,4 +1,11 @@
 #include <Servo.h>
+
+void setup() 
+{
+  myservo.attach(11); 
+  Serial.begin(9600);
+  myservo.write(pos);   
+}
 void loop() 
 {
   val1 = analogRead(ldr1);            
